@@ -26,12 +26,11 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <parent>
-<groupId>org.jacoco</groupId>
-<artifactId>org.jacoco.build</artifactId>
-<version>0.8.4</version>
-<relativePath>../org.jacoco.build</relativePath>
-</parent>
+      <plugin>
+  <groupId>org.jacoco</groupId>
+  <artifactId>jacoco-maven-plugin</artifactId>
+  <version>0.8.5-SNAPSHOT</version>
+</plugin>
       </dependency>
     </dependencies>
 
