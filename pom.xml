@@ -72,6 +72,7 @@
      </executions>
 
     </dependency>
+  </dependencies>
   <dependencies>
 
     <dependency>
