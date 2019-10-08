@@ -26,9 +26,6 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-    <plugins>
-
-    <plugin>
 
       <groupId>org.jacoco</groupId>
 
@@ -74,10 +71,7 @@
 
      </executions>
 
-   </plugin>
-
-  </plugins>
-     
+    </dependency>
   <dependencies>
 
     <dependency>
