@@ -29,7 +29,7 @@
       <groupId>org.jacoco</groupId>
       <artifactId>org.jacoco.build</artifactId>
       <version>0.8.4</version>
-      <relativePath>../org.jacoco.build</relativePath>
+      <scope>test</scope>
       </dependency>
     </dependencies>
 
