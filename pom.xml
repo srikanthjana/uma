@@ -26,6 +26,11 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <plugin>
+  <groupId>org.jacoco</groupId>
+  <artifactId>jacoco-maven-plugin</artifactId>
+  <version>0.8.5-SNAPSHOT</version>
+</plugin>
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
